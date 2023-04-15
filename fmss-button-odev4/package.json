@@ -1,0 +1,20 @@
+{
+  "name": "button-component",
+  "version": "1.0.0",
+  "description": "Custom button component",
+  "main": "ButtonComponent/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/username/repo.git"
+  },
+  "keywords": [
+    "button",
+    "react"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/username/repo/issues"
+  },
+  "homepage": "https://github.com/username/repo#readme"
+}

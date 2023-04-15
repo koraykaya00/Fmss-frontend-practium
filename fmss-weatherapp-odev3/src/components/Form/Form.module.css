@@ -1,0 +1,41 @@
+.btn {
+    border: 0;
+    outline: 0;
+    margin-top: 2%;
+    border-radius: 20px;
+    padding: 1%;
+    font-size: large;
+    color: black;
+    margin-left: 1%;
+    cursor: pointer;
+    background: #ccc;
+    opacity: 0.6;
+  }
+  .btn:hover {
+    background: #ccc;
+    transition: 0.2s;
+    opacity: 1;
+  }
+  .ctyInput {
+    border: 0;
+    outline: 0;
+    padding: 1%;
+    border-radius: 20px;
+    margin-top: 2%;
+    font-size: large;
+    background-color: antiquewhite;
+  }
+  
+  .btnCty button {
+    width: 7%;
+    padding: 0.5%;
+    border: 0;
+    outline: 0;
+    margin: 5% 1% 1% 0;
+    font-size: large;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+  .btnCty button:focus {
+    background-color: #cc7218;
+  }
